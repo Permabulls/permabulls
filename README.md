@@ -1,7 +1,7 @@
 # Permabulls
 
 ## What is this?
-<b>Permabulls' Official Gallery (0-1000, splitted in 10 images). Also, each  one of them got his hash (sha256) in "hash.txt", in order to allow everyone to verify the authenticity of them.</b>
+<b>Permabulls' Official Collection (0-1000, splitted in 10 images). Also, each one of them got his hash (sha256) reported in "hash.txt", in order to allow everyone to verify the authenticity.</b>
 
 Thanks for joining us!
 
