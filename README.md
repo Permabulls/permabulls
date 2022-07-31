@@ -12,7 +12,7 @@ Thanks for joining us!
 - [Official Website](https://permabulls.online/) (Desktop preferred, atm)
 - [Twitter](https://twitter.com/PermabullsNfts)
 - [Telegram](https://t.me/permabullsnfts)
-- [OpenSea](https://opensea.io/collection/permabulls)
+- [OpenSea](https://opensea.io/collection/cryptopermabulls)
 
 
 <b>Also, staffers will never ask you for your private keys or money.</b>
